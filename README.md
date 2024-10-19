@@ -10,7 +10,7 @@ MSc in High Performance Computing Engineering at Politecnico di Milano
 
 Software Testing Engineer at ZTE company 
 
-##### ❤️Interests
+##### ❤️
 
 Passion in various sports and live music
 <!--
