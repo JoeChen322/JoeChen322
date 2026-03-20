@@ -2,7 +2,7 @@
 
 ##### 📚Education 
 
-BSc in Computer Science Engineering at Shandong University
+BSc in Computer Science Engineering
 
 MSc in High Performance Computing Engineering at Politecnico di Milano
 
